@@ -1,0 +1,4 @@
+# downloaded dataset dirs (FashionMNIST etc.)
+data/
+# saved model checkpoints
+models/
